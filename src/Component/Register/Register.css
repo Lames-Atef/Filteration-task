@@ -1,0 +1,25 @@
+
+  .contact{
+    color: #C98A40;
+    text-align: center;
+  }
+  .rounded-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    outline-color: none;
+    text-decoration: none;
+    border-radius: 20px; /* Set the border-radius to make it rounded */
+    background-color: 
+    #C98A40; /* Add your preferred background color */
+    color: white; /* Add your preferred text color */
+    cursor: pointer;
+  }
+.item input {
+  padding: 10px; /* Optional: Add padding for better appearance */
+  background-color: #FFD39F; /* Set the background color */
+   /* Optional: Add border for better visibility */
+  border-radius: 15px; /* Optional: Add border-radius for rounded corners */
+  
+}

@@ -1,0 +1,24 @@
+
+.about{
+    background-image: linear-gradient(to right,
+    #C98A40 0%,
+    #C98A40 60%,white 60%,white 100%) ;
+    color: aliceblue;
+    
+}
+img{
+    width: 40%;
+}
+.rounded-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    outline-color: none;
+    text-decoration: none;
+    border-radius: 20px; /* Set the border-radius to make it rounded */
+    background-color: 
+    #f7c489; /* Add your preferred background color */
+    color: white; /* Add your preferred text color */
+    cursor: pointer;
+  }

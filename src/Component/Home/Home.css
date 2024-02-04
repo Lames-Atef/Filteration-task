@@ -1,0 +1,43 @@
+.home{
+    background: linear-gradient(to right,  #C98A40 40%, #C98A40 60%, transparent 60%),
+    url('../../assets/work-background.jpg');
+    background-position: center;
+    background-size:contain;
+    color: aliceblue;
+}
+.rounded-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    outline-color: none;
+    text-decoration: none;
+    border-radius: 20px; /* Set the border-radius to make it rounded */
+    background-color: 
+    #dfbe98; /* Add your preferred background color */
+    color: white; /* Add your preferred text color */
+    cursor: pointer;
+  }
+  .parent{
+    position: relative;
+
+  }
+  .logo {
+    position: absolute; /* Set position to absolute */
+      left: 70%; /* Move the image horizontally to the center of the container */
+      top: 40%; /* Move the image vertically to the center of the container */
+      transform: translate(-50%, -50%);
+    }
+    .phone{
+        position: absolute;
+        bottom: 0px;
+        left: 40%;
+    }
+    .hero{
+        position: absolute;
+        right: 0px;
+        bottom: 0px;
+        z-index: 6666;
+    }
+     
+     

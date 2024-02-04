@@ -1,0 +1,13 @@
+.rounded-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    outline-color: none;
+    text-decoration: none;
+    border-radius: 20px; /* Set the border-radius to make it rounded */
+    background-color: 
+    #C98A40; /* Add your preferred background color */
+    color: white; /* Add your preferred text color */
+    cursor: pointer;
+  }

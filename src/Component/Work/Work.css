@@ -1,0 +1,12 @@
+.work{
+    background-image: linear-gradient(to left, #C98A40 0%,
+    #C98A40 60%,url("../../assets/work-background.jpg") 100%) ;
+    color: aliceblue;
+}
+.work{
+    background: linear-gradient(to left,  #C98A40 40%, #C98A40 60%, transparent 60%),
+    url('../../assets/work-background.jpg');
+    background-position: center;
+    background-size: contain;
+    
+}

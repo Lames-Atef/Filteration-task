@@ -1,0 +1,49 @@
+.test{
+    background-color: #C98A40;
+    background-image: url(../../assets/Testimonials-background.png);
+    background-size: cover;
+}
+.item h6 {
+    color: #C98A40;
+
+}
+.item{
+    background-color: #fffefd;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.rating {
+    display: inline-block;
+  }
+  
+  .rating input {
+    display: none;
+  }
+  
+  .rating label {
+    float: right;
+    cursor: pointer;
+    color: #C98A40;
+  }
+  
+  .rating label:before {
+    content: '\2605'; /* Unicode character for a star */
+    padding: 5px;
+  }
+  
+  .rating input:checked ~ label {
+    color: #ffca08; /* Color for selected stars */
+  }
+  
+  .rounded-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    outline-color: none;
+    text-decoration: none;
+    border-radius: 20px; /* Set the border-radius to make it rounded */
+    background-color: #C98A40; /* Add your preferred background color */
+    color: white; /* Add your preferred text color */
+    cursor: pointer;
+  }
